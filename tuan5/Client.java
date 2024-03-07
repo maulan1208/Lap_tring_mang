@@ -8,7 +8,7 @@ import java.net.Socket;
 
 public class Client {
     public static void main(String[] args) {
-        final String SERVER_ADDRESS = "192.168.0.124";
+        final String SERVER_ADDRESS = "192.168.236.194";
         final int PORT = 12345;
         try {
             Socket socket = new Socket(SERVER_ADDRESS, PORT);
