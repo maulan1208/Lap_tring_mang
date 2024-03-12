@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.mycompany.project1.tuan7;
 
 import java.net.DatagramPacket;
@@ -10,10 +6,6 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.*;
 
-/**
- *
- * @author hung
- */
 public class T7Sender extends javax.swing.JFrame {
 
     /**

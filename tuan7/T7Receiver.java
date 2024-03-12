@@ -1,18 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.mycompany.project1.tuan7;
 
 import java.awt.TextField;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 
-/**
- *
- * @author hung
- */
 public class T7Receiver extends javax.swing.JFrame {
 
     /**
@@ -22,7 +14,6 @@ public class T7Receiver extends javax.swing.JFrame {
         initComponents();
        
     }
-
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
